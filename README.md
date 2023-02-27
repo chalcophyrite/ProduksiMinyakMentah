@@ -1,0 +1,2 @@
+# CrudeOilProduction
+The dataset analyzed in this study is a dataset from the Kaggle website created by Mathurin Ache https://www.kaggle.com/datasets/mathurinache/crudeoilproductionbycountry. The data set consisted of 26 year attributes, 1 decision attribute and 218 records. From this data, training will be carried out using the LSTM method. The training model was done with 3 layers of LSTM (200, 100, 50 neurons) and 3 dense layers (20, 10, 1 neurons).
