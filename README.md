@@ -1,2 +1,2 @@
-# CrudeOilProduction
+# Produksi Minyak Mentah
 Dataset yang dianalisis dalam proyekini adalah dataset dari Kaggle yang dibuat oleh Mathurin Ache https://www.kaggle.com/datasets/mathurinache/crudeoilproductionbycountry. Kumpulan data terdiri dari 26 atribut tahun, 1 atribut keputusan dan 218 record. Dari data tersebut akan dilakukan pelatihan dengan menggunakan metode LSTM. Model pelatihan dilakukan dengan 3 lapisan LSTM (200, 100, 50 neuron) dan 3 lapisan padat (20, 10, 1 neuron).
